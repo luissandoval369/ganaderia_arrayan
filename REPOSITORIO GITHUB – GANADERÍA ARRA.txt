@@ -1,0 +1,12 @@
+REPOSITORIO GITHUB – GANADERÍA ARRAYÁN
+
+Proyecto: Sistema de gestión ganadera Ganadería Arrayán
+
+Repositorio:
+https://github.com/luissandoval369/ganaderia_arrayan.git
+
+Rama: master
+
+Commit: 178bd24
+
+Descripción: Proyecto Java con conexión a MySQL y operaciones CRUD para los módulos de gestión de ganado y vacunación.
